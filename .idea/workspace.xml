@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;H-Ali27&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/H-Ali27/BIAppFramework.git&quot;,
-    &quot;accountId&quot;: &quot;87678508-9c82-4c8c-acbe-0ef90e9911f6&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/H-Ali27/MobileAppBDD.git",
+    "accountId": "46e22659-f108-47a5-81b1-9995958da853"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -47,9 +47,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "TestNG.LoginRunner.executor": "Run",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/BDDApp",
+    "last_opened_file_path": "C:/Users/Z.H/Documents/mobile",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
